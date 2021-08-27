@@ -18,7 +18,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api?username=joxpulp&show_icons=true&theme=algolia" alt="joxpulp" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/joxpulp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/defaultpizza-yellow.png" height="50" width="210" alt="joxpulp" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/joxpulp"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="joxpulp" /></a></p><br><br>
 
 
 
