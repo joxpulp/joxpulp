@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Josue</h1>
+<h1 align="center">Hi 👋, I'm Josue, Front End Developer</h1>
 <p align="left"> <a href="https://twitter.com/joxpulp" target="blank"><img src="https://img.shields.io/twitter/follow/joxpulp?logo=twitter&style=for-the-badge" alt="joxpulp" /></a> </p>
 
 - 📫 How to reach me **joxpulp@gmail.com**
